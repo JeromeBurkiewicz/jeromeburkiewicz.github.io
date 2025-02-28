@@ -17,10 +17,7 @@ You can reach out to me or follow my work with these social media and websites. 
 
 <div class="center_contact">
 
-  <a href="https://x.com/J_Burkiewicz">
-    <img style="float: left; Padding: 10px 10px 10px 10px;" width="100px" src="../assets/images/twitter-2.png" />
-   </a>
-
+ 
    <a href="https://bsky.app/profile/jeromeburkiewicz.bsky.social">
     <img style="float: left; Padding: 10px 10px 10px 10px;" width="100px" src="../assets/images/bsky.png" />
    </a>
