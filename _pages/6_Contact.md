@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/banner8.jpg
+  overlay_image: /assets/images/banner7.jpg
 excerpt: '<p class="excerpt-post"> Email, social medias and research networking</p>' 
 ---
 

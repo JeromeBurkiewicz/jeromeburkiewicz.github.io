@@ -20,6 +20,13 @@ excerpt: '<p class="excerpt-post"> List of publications </p>'
   <dd></dd>
 </dl>
 
+<h5>2025 </h5>
+<p style="font-size:85%; font-weight: bold; margin:0.75em 0 0 0">Urbanization correlates with genetic and plastic variation of the spotted jewelweed flower morphology</p>
+<p align="justify" style="font-size:85%; margin:0 0 0 0">Burkiewicz, J., Carvalho, J., Caporgno, S., Lafond, J., Devaux, C., Normandin, E. and Joly, S.</p>
+<p style="font-size:85%; margin:0 0 0 0"> <i>Under Review, Evolution Letters. </i> </p>
+<p style="font-size:85%; margin:0 0 0 0"> <a target="_blank" href="https://www.biorxiv.org/content/10.1101/2025.06.10.658901v2">
+  <img style="margin-right: 10px; display: inline-block; vertical-align: middle;" alt="alt_text" width="20px" src="../assets/images/Favicon_Link.png" />Preprint available here
+</a></p>
 
 <h5>2024 </h5>
 <p style="font-size:85%; font-weight: bold; margin:0.75em 0 0 0">Latitudinal gradients in predation persist in urban environments</p>

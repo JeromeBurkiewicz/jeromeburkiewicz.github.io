@@ -11,19 +11,23 @@ header:
 excerpt: '<p class="excerpt-post"> Background, hobbies, values and CV</p>' 
 ---
 
-<h1> From the moutain… </h1>
+<h1> From a flower… </h1>
 
 <p align="justify">
-I was born in the French Alps (Haute-Savoie), but I didn’t have the chance to enjoy the diversity of alpine habitats during childhood. One event, however, put me on the track to become a biologist: the emergence of a bright red showy tulip flower that I planted with my grandmother. How can an onion give such a beautiful flower?
-As an adult, I started hiking with my brother and exploring the Alps. In these long walks, I became aware of what surrounded me. The exceptional diversity and complexity of ecosystems lead me to engage in a B.Sc. in Biology at Université de Lyon. 
+My curiosity has always been the spark behind my journey. It started with a simple act: planting a bulb with my grandmother and watching it bloom into a beautiful red flower. That moment ignited a fascination with plants that never left me. It raised questions that still drive me today: How do plants grow? How do they adapt? What explains their amazing diversity? 
 
 <h1> …To the academy </h1>
 
 <p align="justify">
-From a difficult socio-economic context, I was the first of my family to make it to university. Full of curiosity and determination, I decided to move to Canada in a student exchange program in my last year of my bachelor's degree. 
-This gave me the opportunity to be an intern in Simon Joly’s lab, working on collecting preliminary data to assess if urbanization had an impact on flower shape in Impatiens capensis. I immediately liked doing research and decided to pursue my academic journey to, one day, become a professor. 
-Back in France, I enrolled in a M.Sc. in plant biology. Because Canada missed me, I decided to return to Montreal for my internships, one in the lab of Daniel Kierzkowski, studying growth patterns of floral organs in Arabidopsis thaliana, and next in the lab of Simon Joly to develop a protocol of 3D flower reconstruction by photogrammetry.
-I then decided to enroll in a PhD program, to study flower evolution in an urbanization context.
+Coming from a difficult socio-economic background, higher education was not guaranteed. I was the first in my family to attend college, balancing my studies with helping my younger sisters succeed. Supporting them revealed an early interest in teaching and mentoring, a passion that continues to shape my view of academia as a place for both discovery and sharing knowledge.
+<p align="justify"> 
+At the University of Lyon, I chose biology to explore the diversity of life. Strong academic results led to a student exchange in Montreal, where an internship in Simon Joly’s lab changed my perspective. Fieldwork, data analysis, and presenting at a local conference confirmed what I had suspected: research was not just a hobby, it was a calling.
+<p align="justify"> 
+Financial constraints delayed my goal of studying abroad for graduate school. Since I was eighteen, I worked summer jobs outside of science to help pay for my education, which limited my chances for scholarships. Despite these obstacles, I earned a master’s degree in France, where I received extensive training in plant biology, ecology, and evolution. Travel grants enabled me to complete internships overseas. These experiences enhanced my skills and reinforced my determination to pursue a PhD.
+<p align="justify"> 
+After months of uncertainty, I finally began a PhD project with Simon Joly on the evolution of Impatiens capensis floral morphology in urban environments—an opportunity to explore plant adaptations. During my PhD, I developed as both a researcher and an educator: I taught over 600 hours, mentored 11 students from various backgrounds and levels, and participated in science outreach. These experiences strengthened my belief that research and teaching are deeply connected.
+My journey has been anything but straightforward, shaped by obstacles that taught me resilience and purpose. Coming from a socio-economic background where academia seemed out of reach, I recognize that my presence here is unusual. However, that perspective deepens my work and drives my effort to make research more inclusive for those who feel they don’t belong.
+
  
 </p>
 
